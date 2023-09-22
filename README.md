@@ -1,19 +1,18 @@
-<h1 align="center">Hi I'm <a href="https://seanengineering.github.io/portfolio/" target="blank">
-Sean</a></h1>
-
+<h1 align="center">Hi, I'm Sean 🌊</h1>
+<h3 align="center">I am a software developer 👨‍💻 and mechanical engineer 👷</h3>
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seanengineering&theme=dark" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanengineering&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
 
-<br/>
+-----
 <div align="center">
     <p>🌱 I’m currently building an <a href="https://github.com/Revenology/traveler-expo-app" target="blank">app</a>.</p>
     <p>📖 I'm currently reading <a href="https://www.amazon.com.au/Surrender-Experiment-Michael-Singer/dp/080414110X" target="blank">The Surrender Experiment</a>.</p>
-    <p>📫 You can reach me here <a href="https://www.linkedin.com/in/sean-gan-engineering/" target="blank"><img align="center" src="https://img.shields.io/badge/Sean Gan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p> 
-  </ul>
+    <p>📫 You can reach me here <a href="https://www.linkedin.com/in/sean-gan-engineering/" target="blank"><img align="center" src="https://img.shields.io/badge/Sean Gan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
-<br>
+
+-----
 
 <h3 align="center">Languages</h3>
 <div align="center">
