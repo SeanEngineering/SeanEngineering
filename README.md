@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sean 🌊</h1>
-<h3 align="center">I am a software developer 👨‍💻 and mechanical engineer 👷</h3>
+<h3 align="center">I am a software developer 👨‍💻 and a mechanical engineer 👷</h3>
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seanengineering&theme=dark" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanengineering&layout=compact&langs_count=8&card_width=320&theme=dark" />
