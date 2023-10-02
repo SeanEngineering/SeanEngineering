@@ -7,7 +7,7 @@
 
 -----
 <div align="center">
-    <p>🌱 I’m currently building an <a href="https://github.com/Revenology/traveler-expo-app" target="_blank">app</a>.</p>
+    <p>🌱 I’m currently learning <a href="https://go.dev/">Go</a>.</p>
     <p>📖 I'm currently reading <a href="https://www.amazon.com.au/Surrender-Experiment-Michael-Singer/dp/080414110X" target="_blank">The Surrender Experiment</a>.</p>
     <p>📫 You can reach me here <a href="https://www.linkedin.com/in/sean-gan-engineering/" target="_blank"><img align="center" src="https://img.shields.io/badge/Sean Gan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
