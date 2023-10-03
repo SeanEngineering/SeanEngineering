@@ -42,6 +42,9 @@
   <a href="https://www.arduino.cc/">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/>
   </a>
+  <a href="https://go.dev/">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  </a>
 </div>
 <br>
 
