@@ -132,7 +132,7 @@
     <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" alt="puppeteer"/>
   </a>
   <a href="https://www.raspberrypi.com/">
-    <img href="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" target="_blank"/> 
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" target="_blank"/> 
   </a>
 </div>
 <br>
