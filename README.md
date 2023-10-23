@@ -72,7 +72,9 @@
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
   </a>
-  
+  <a href="https://www.react-hook-form.com/" target="_blank">
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  </a>
   <a href="https://mui.com/" target="_blank">
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
   </a>
